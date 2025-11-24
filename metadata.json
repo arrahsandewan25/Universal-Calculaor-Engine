@@ -1,0 +1,7 @@
+{
+  "name": "UCE - Universal Computational Engine",
+  "description": "A next-generation scientific calculator featuring Arbitrary Precision Arithmetic, a Dual Computational Kernel (Local + AI), and specialized modules for Engineering, Finance, and Chemistry.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
